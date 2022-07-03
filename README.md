@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋 
+![](https://komarev.com/ghpvc/?username=ahmad-asyraf&color=brightgreen&style=for-the-badge)
 
 <!--
 **ahmad-asyraf/ahmad-asyraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +16,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmad-asyraf&theme=tokyonight" width="450px">
+    <img src="https://github-readme-stats.vercel.app/api?username=ahmad-asyraf&theme=tokyonight&show_icons=true" width="450px">
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-asyraf&layout=compact&theme=tokyonight" width="450px">
+    
+    
 </p>
- 
