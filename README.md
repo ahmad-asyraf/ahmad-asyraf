@@ -15,24 +15,8 @@
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
     <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white">
-<!--
-**ahmad-asyraf/ahmad-asyraf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=ahmad-asyraf&theme=tokyonight&show_icons=true" width="450px">
-    <br><br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmad-asyraf&layout=compact&theme=tokyonight" width="450px">
-    
-    
 </p>
+
+<div align="center">
+    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ahmad-asyraf&theme=merko&hide_border=true" alt="GitHub Streak" /></a>
+</div>
